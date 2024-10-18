@@ -1,11 +1,11 @@
 
-import { Ex5 } from "./components/Ex5";
+import { Ex4 } from "./components/Ex4";
 
 export const App = () => {
 
   return (
     <>
-      <Ex5/>
+      <Ex4/>
     </>
   )
 }
